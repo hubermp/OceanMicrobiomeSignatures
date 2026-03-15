@@ -115,4 +115,4 @@ Environmental layers: **World Ocean Atlas 2018** ([ncei.noaa.gov/products/world-
 
 ## Citation
 
-Huber et al. (2026). *Ocean Microbiome Signatures capturing the spatial organization of metabolic potential in the global sunlit ocean*. *Nature Microbiology*. Under review.
+Huber et al. (2026). *Ocean Microbiome Signatures capturing the spatial organization of metabolic potential in the global sunlit ocean*. Under review.
